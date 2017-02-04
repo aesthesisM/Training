@@ -5,7 +5,18 @@ package aesthesism.training.enums;
  */
 
 public enum ActivityEnum {
-    MainActivity("Main Activitiy", "aesthesism.training.activity.MainActivity"), SecondActivity("Second Activity", "aesthesism.training.activity.SecondActivity"), ThirdActivity("Third Activity", "aesthesism.training.activity.ThirthActivity"), DialogActivity("Dialog Activity", "aesthesism.training.activity.DialogActivity"),FragmentActivity("Fragment Activity","aesthesism.training.example.fragment.FragmentMainActivity");
+    MainActivity("Main Activitiy", "aesthesism.training.activity.MainActivity"),
+    SecondActivity("Second Activity", "aesthesism.training.activity.SecondActivity"),
+    ThirdActivity("Third Activity", "aesthesism.training.activity.ThirthActivity"),
+    TestMediaPlayerActivity("Test Media Player Activity","aesthesism.training.activity.TestMediaPlayer"),
+    DialogActivity("Dialog Activity", "aesthesism.training.activity.DialogActivity"),
+    FragmentReplaceActivity("Fragment Replace Activity", "aesthesism.training.activity.fragment.replace.FragmentMainActivity"),
+    FragmentListActivity("Fragment List Activity", "aesthesism.training.activity.fragment.list.ListFragmentActivity"),
+    MultiPaneFragmentActivity("MultiPane Fragment Activity", "aesthesism.training.activity.fragment.mutipane.MultiPaneFragmentActivity"),
+    MultiPaneFragmentActivity2("MutliPane Fragment Activity 2","aesthesism.training.activity.fragment.ItemListActivity"),
+    RecyclerViewActivity("RecyclerView Activity","aesthesism.training.activity.RecycleViewActivity")
+
+    ;
     private String listName;
     private String className;
 
@@ -22,4 +33,4 @@ public enum ActivityEnum {
         return listName;
     }
 
-}
+    }

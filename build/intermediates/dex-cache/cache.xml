@@ -48,6 +48,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="G:\AndroidStudioWorkspace\Training\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="G:\AndroidStudioWorkspace\Training\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.1.0_75e4c55ebe606a7f14c8e673ca0e2029b7a4b98d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="G:\AndroidStudioWorkspace\Training\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
@@ -106,7 +115,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="87bfae06f5e87f2b1f3b46d72379bf1f585086f1">
+        sha1="2aac17199dc164eba4b3c1f369eba893397869e4">
         <dex dex="G:\AndroidStudioWorkspace\Training\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c632a8cebbd9decd0bcde1dc47682d09e76264d4\classes.dex" />
     </item>
     <item
@@ -115,7 +124,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="0e3b6a2f0b6eb5c2401b34213d2e845d7c5dd17a">
+        sha1="e9fef7c47f77d854837f216b793e3ba5f2d82283">
         <dex dex="G:\AndroidStudioWorkspace\Training\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_391e5060a1b1080d0c0ebb5d16b266307a123188\classes.dex" />
     </item>
     <item
